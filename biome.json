@@ -20,7 +20,8 @@
 				"useSortedClasses": "error"
 			},
 			"style": {
-				"useBlockStatements": "off"
+				"useBlockStatements": "off",
+				"noDefaultExport": "off"
 			},
 			"correctness": {
 				"noUndeclaredVariables": "off",
